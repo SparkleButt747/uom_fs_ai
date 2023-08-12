@@ -104,7 +104,7 @@ This script orchestrates the process of importing track models, parsing CSV file
 
 
 ## Training
-Config Files Of Different Training Version Are In The Config Folder And The Results In The Results Folder
+Config Files Of Different Training Versions Are In The Config Folder And The Results In The Results Folder
 To See The Results Run `tensorboard --logdir results`
 
 ## Acknowledgements
