@@ -252,6 +252,10 @@ public class Controller : Agent
             stepcount = 0;
         }
         */
+
+
+        //
+        /*
         stepcount+= (int)Math.Ceiling(0.5 * Math.Tanh(-averagespeed - 18.75) + 0.5);
         stepcount = Math.Min((int)Math.Ceiling(0.5 * Math.Tanh(-averagespeed - 18.75) + 0.5)*2000, stepcount);
 
@@ -266,6 +270,7 @@ public class Controller : Agent
 
             EndEpisode();
         }
+        */
 
         AddReward(averagespeed);
 
