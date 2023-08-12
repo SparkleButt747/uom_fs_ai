@@ -15,9 +15,9 @@ public class LoadTrack : MonoBehaviour
     string path_blue_n_white = "Assets/models/blue_and_white_v2.fbx";
 
     // Define Locations Of Files
-    string pythonExecutable = "/usr/local/Cellar/python@3.8/3.8.17_1/Frameworks/Python.framework/Versions/3.8/bin/python3.8";
+    string pythonExecutable = "";
     string pythonScriptPath = "python/generate_track_csv.py";
-    string workingDirectory = "/Users/brndy.747/Projects/unity/fs_ai_simulation_v2/Assets/";
+    string workingDirectory = "";
 
     // Start is called before the first frame update
     void Start()
