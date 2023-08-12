@@ -9,6 +9,7 @@ An attempt at creating training environment using the dynamic bicycle model for 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Training](#training)
 - [Acknowledgements](#acknowledgements)
 
 ## Getting-Started/Prerequisites
@@ -102,7 +103,7 @@ This script orchestrates the process of importing track models, parsing CSV file
 - Consult MLAgents Documentation For Setting Up Unity MLAgents...
 
 
-#### Training
+## Training
 Config Files Of Different Training Version Are In The Config Folder And The Results In The Results Folder
 To See The Results Run `tensorboard --logdir results`
 
