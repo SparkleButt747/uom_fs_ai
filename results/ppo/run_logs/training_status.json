@@ -1,0 +1,203 @@
+{
+    "Car_LIDAR_FULL-STATE_V1": {
+        "checkpoints": [
+            {
+                "steps": 1635611,
+                "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V1/Car_LIDAR_FULL-STATE_V1-1635611.onnx",
+                "reward": null,
+                "creation_time": 1691591113.7267342,
+                "auxillary_file_paths": [
+                    "results/ppo/Car_LIDAR_FULL-STATE_V1/Car_LIDAR_FULL-STATE_V1-1635611.pt"
+                ]
+            },
+            {
+                "steps": 1678233,
+                "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V1/Car_LIDAR_FULL-STATE_V1-1678233.onnx",
+                "reward": -2463.055167877674,
+                "creation_time": 1691591641.049001,
+                "auxillary_file_paths": [
+                    "results/ppo/Car_LIDAR_FULL-STATE_V1/Car_LIDAR_FULL-STATE_V1-1678233.pt"
+                ]
+            },
+            {
+                "steps": 1999948,
+                "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V1/Car_LIDAR_FULL-STATE_V1-1999948.onnx",
+                "reward": -6318.283826623644,
+                "creation_time": 1691595282.762812,
+                "auxillary_file_paths": [
+                    "results/ppo/Car_LIDAR_FULL-STATE_V1/Car_LIDAR_FULL-STATE_V1-1999948.pt"
+                ]
+            },
+            {
+                "steps": 2499968,
+                "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V1/Car_LIDAR_FULL-STATE_V1-2499968.onnx",
+                "reward": null,
+                "creation_time": 1691600469.653116,
+                "auxillary_file_paths": [
+                    "results/ppo/Car_LIDAR_FULL-STATE_V1/Car_LIDAR_FULL-STATE_V1-2499968.pt"
+                ]
+            },
+            {
+                "steps": 2514432,
+                "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V1/Car_LIDAR_FULL-STATE_V1-2514432.onnx",
+                "reward": null,
+                "creation_time": 1691600632.665208,
+                "auxillary_file_paths": [
+                    "results/ppo/Car_LIDAR_FULL-STATE_V1/Car_LIDAR_FULL-STATE_V1-2514432.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2514432,
+            "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V1.onnx",
+            "reward": null,
+            "creation_time": 1691600632.665208,
+            "auxillary_file_paths": [
+                "results/ppo/Car_LIDAR_FULL-STATE_V1/Car_LIDAR_FULL-STATE_V1-2514432.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.8.1"
+    },
+    "Car_LIDAR_FULL-STATE_V1_1": {
+        "checkpoints": [
+            {
+                "steps": 4499957,
+                "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V1_1/Car_LIDAR_FULL-STATE_V1_1-4499957.onnx",
+                "reward": -2418.3852006263205,
+                "creation_time": 1691639703.7839842,
+                "auxillary_file_paths": [
+                    "results/ppo/Car_LIDAR_FULL-STATE_V1_1/Car_LIDAR_FULL-STATE_V1_1-4499957.pt"
+                ]
+            },
+            {
+                "steps": 4999942,
+                "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V1_1/Car_LIDAR_FULL-STATE_V1_1-4999942.onnx",
+                "reward": -184.5396567670738,
+                "creation_time": 1691644063.185311,
+                "auxillary_file_paths": [
+                    "results/ppo/Car_LIDAR_FULL-STATE_V1_1/Car_LIDAR_FULL-STATE_V1_1-4999942.pt"
+                ]
+            },
+            {
+                "steps": 5499979,
+                "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V1_1/Car_LIDAR_FULL-STATE_V1_1-5499979.onnx",
+                "reward": 158.1108090600797,
+                "creation_time": 1691648124.7612338,
+                "auxillary_file_paths": [
+                    "results/ppo/Car_LIDAR_FULL-STATE_V1_1/Car_LIDAR_FULL-STATE_V1_1-5499979.pt"
+                ]
+            },
+            {
+                "steps": 5733930,
+                "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V1_1/Car_LIDAR_FULL-STATE_V1_1-5733930.onnx",
+                "reward": -21.06606558061415,
+                "creation_time": 1691650568.2091799,
+                "auxillary_file_paths": [
+                    "results/ppo/Car_LIDAR_FULL-STATE_V1_1/Car_LIDAR_FULL-STATE_V1_1-5733930.pt"
+                ]
+            },
+            {
+                "steps": 5734570,
+                "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V1_1/Car_LIDAR_FULL-STATE_V1_1-5734570.onnx",
+                "reward": null,
+                "creation_time": 1691655281.176363,
+                "auxillary_file_paths": [
+                    "results/ppo/Car_LIDAR_FULL-STATE_V1_1/Car_LIDAR_FULL-STATE_V1_1-5734570.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5734570,
+            "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V1_1.onnx",
+            "reward": null,
+            "creation_time": 1691655281.176363,
+            "auxillary_file_paths": [
+                "results/ppo/Car_LIDAR_FULL-STATE_V1_1/Car_LIDAR_FULL-STATE_V1_1-5734570.pt"
+            ]
+        }
+    },
+    "Car_LIDAR_FULL-STATE_V2": {
+        "checkpoints": [
+            {
+                "steps": 261219,
+                "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V2/Car_LIDAR_FULL-STATE_V2-261219.onnx",
+                "reward": 544.3963327407837,
+                "creation_time": 1691675711.5547001,
+                "auxillary_file_paths": [
+                    "results/ppo/Car_LIDAR_FULL-STATE_V2/Car_LIDAR_FULL-STATE_V2-261219.pt"
+                ]
+            },
+            {
+                "steps": 499947,
+                "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V2/Car_LIDAR_FULL-STATE_V2-499947.onnx",
+                "reward": 693.9677696228027,
+                "creation_time": 1691679860.6567712,
+                "auxillary_file_paths": [
+                    "results/ppo/Car_LIDAR_FULL-STATE_V2/Car_LIDAR_FULL-STATE_V2-499947.pt"
+                ]
+            },
+            {
+                "steps": 999965,
+                "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V2/Car_LIDAR_FULL-STATE_V2-999965.onnx",
+                "reward": 804.9633966333726,
+                "creation_time": 1691689793.1600692,
+                "auxillary_file_paths": [
+                    "results/ppo/Car_LIDAR_FULL-STATE_V2/Car_LIDAR_FULL-STATE_V2-999965.pt"
+                ]
+            },
+            {
+                "steps": 1499985,
+                "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V2/Car_LIDAR_FULL-STATE_V2-1499985.onnx",
+                "reward": 683.8325082853243,
+                "creation_time": 1691707633.08692,
+                "auxillary_file_paths": [
+                    "results/ppo/Car_LIDAR_FULL-STATE_V2/Car_LIDAR_FULL-STATE_V2-1499985.pt"
+                ]
+            },
+            {
+                "steps": 1619757,
+                "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V2/Car_LIDAR_FULL-STATE_V2-1619757.onnx",
+                "reward": 674.4432930364842,
+                "creation_time": 1691717304.911027,
+                "auxillary_file_paths": [
+                    "results/ppo/Car_LIDAR_FULL-STATE_V2/Car_LIDAR_FULL-STATE_V2-1619757.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1619757,
+            "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V2.onnx",
+            "reward": 674.4432930364842,
+            "creation_time": 1691717304.911027,
+            "auxillary_file_paths": [
+                "results/ppo/Car_LIDAR_FULL-STATE_V2/Car_LIDAR_FULL-STATE_V2-1619757.pt"
+            ]
+        }
+    },
+    "Car_LIDAR_FULL-STATE_V2_1": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V2_1/Car_LIDAR_FULL-STATE_V2_1-0.onnx",
+                "reward": null,
+                "creation_time": 1691751601.276119,
+                "auxillary_file_paths": [
+                    "results/ppo/Car_LIDAR_FULL-STATE_V2_1/Car_LIDAR_FULL-STATE_V2_1-0.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 0,
+            "file_path": "results/ppo/Car_LIDAR_FULL-STATE_V2_1.onnx",
+            "reward": null,
+            "creation_time": 1691751601.276119,
+            "auxillary_file_paths": [
+                "results/ppo/Car_LIDAR_FULL-STATE_V2_1/Car_LIDAR_FULL-STATE_V2_1-0.pt"
+            ]
+        }
+    }
+}

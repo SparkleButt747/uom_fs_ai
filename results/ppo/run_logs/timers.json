@@ -1,0 +1,49 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1691751541",
+        "python_version": "3.8.17 (default, Jun 21 2023, 04:50:34) \n[Clang 14.0.3 (clang-1403.0.22.14.1)]",
+        "command_line_arguments": "/Users/brndy.747/Projects/unity/fs_ai_simulation_v2/fs_ai_simulations_two/bin/mlagents-learn config/run_configuration.yaml",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.8.1",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1691751601"
+    },
+    "total": 59.375147333,
+    "count": 1,
+    "self": 0.028829187000006584,
+    "children": {
+        "run_training.setup": {
+            "total": 0.12565745799999917,
+            "count": 1,
+            "self": 0.12565745799999917
+        },
+        "TrainerController.start_learning": {
+            "total": 59.220660687999995,
+            "count": 1,
+            "self": 0.00014665999999863288,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 58.832120093,
+                    "count": 1,
+                    "self": 58.832120093
+                },
+                "TrainerController._save_models": {
+                    "total": 0.3883939349999963,
+                    "count": 1,
+                    "self": 0.0025560799999908568,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.38583785500000545,
+                            "count": 1,
+                            "self": 0.38583785500000545
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
