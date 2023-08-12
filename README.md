@@ -98,13 +98,13 @@ This script orchestrates the process of importing track models, parsing CSV file
 3. Configure the paths for Python (`pythonExecutable` and `pythonScriptPath`) and working directory (`workingDirectory`).
 4. Call the `GenerateTrack` function, which coordinates the process of generating and importing the track boundaries.
 
+- Both scripts should be attached and appropriately configured on launch...
+- Consult MLAgents Documentation For Setting Up Unity MLAgents...
 
-Both scripts should be attached and appropriately configured on launch...
 
-
-
-Consult MLAgents Documentation For Setting Up Unity MLAgents...
-
+#### Training
+Config Files Of Different Training Version Are In The Config Folder And The Results In The Results Folder
+To See The Results Run `tensorboard --logdir results`
 
 ## Acknowledgements
 
