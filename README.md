@@ -30,7 +30,7 @@ Then In Unity Install The Following Packages:
 There are two main scripts that control everything...
 ### Controller Script Documentation
 #### Overview
-The `Controller` script is a core component of our project, aiming to create a realistic training environment for a racing agent using the dynamic bicycle model within the Unity MLAgents Toolkit.
+The `Controller` script is a core component of the project, aiming to create a realistic training environment for a racing agent using the dynamic bicycle model within the Unity MLAgents Toolkit.
 
 This script handles various aspects of the agent's control, physics simulation, collision detection, AI decision-making, and rewards calculation. By interfacing with the Unity MLAgents Toolkit, it orchestrates the training process of the racing agent, capturing essential interactions and behaviors.
 #### Key Components
@@ -72,7 +72,7 @@ This script handles various aspects of the agent's control, physics simulation, 
 
 ### LoadTrack Script Documentation
 #### Overview
-The `LoadTrack` script is a crucial component responsible for generating and importing track boundaries into the Unity environment. It serves as a bridge between your Python-based track generation process and Unity, facilitating the creation of a dynamic and engaging training environment for your racing agent.
+The `LoadTrack` script is a crucial component responsible for generating and importing track boundaries into the Unity environment. It serves as a bridge between your Python-based track generation process and Unity, facilitating the creation of a dynamic training environment for the racing agent.
 
 This script orchestrates the process of importing track models, parsing CSV files, generating track boundary objects, and managing their properties.
 
