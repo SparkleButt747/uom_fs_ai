@@ -114,4 +114,4 @@ Example:
 mlagents-learn my_behavior --run-id=my_run --config=ppo_config.yaml
 ```
 
-Version 2 uses a Camera Input And Has A Curriculum Learning Implemented, Furthermore, It Also Uses Curiosity Reward Signals
+Version 2 uses a Camera Input And Has Curriculum Learning Implemented, Furthermore, It Also Uses Curiosity Reward Signals. In Addition To These Changes, Track Generation Has Been Translated To C#, And Now The Env Can Be Built
