@@ -112,5 +112,6 @@ To use this configuration file for training with Unity ML-Agents, follow these s
 Example:
 ```bash
 mlagents-learn my_behavior --run-id=my_run --config=ppo_config.yaml
+```
 
 Version 2 uses a Camera Input And Has A Curriculum Learning Implemented, Furthermore, It Also Uses Curiosity Reward Signals
