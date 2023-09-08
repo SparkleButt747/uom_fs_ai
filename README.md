@@ -99,7 +99,7 @@ The configuration file is written in YAML format and is used to configure and fi
 - `inference`: Indicates whether to perform model inference.
 - `results_dir`: Defines the directory for saving training results.
 
-## Usage
+### Usage
 
 To use this configuration file for training with Unity ML-Agents, follow these steps:
 
@@ -113,3 +113,4 @@ Example:
 ```bash
 mlagents-learn my_behavior --run-id=my_run --config=ppo_config.yaml
 
+Version 2 uses a Camera Input And Has A Curriculum Learning Implemented, Furthermore, It Also Uses Curiosity Reward Signals
