@@ -67,7 +67,7 @@ The `PathConfig` class is designed to encapsulate the configuration options for 
 
 This configuration file specifies training settings for Unity ML-Agents. It defines various hyperparameters, network settings, and training options for a specific behavior (make sure these match in the editor and in the yaml file), such as `Car_CAM_NO-STATE_V3_8B`. The configuration also includes settings for the environment, engine, and checkpoints.
 
-## Overview
+### Overview
 
 The configuration file is written in YAML format and is used to configure and fine-tune the training process for a specific ML-Agents behavior. Below is an overview of the key sections and settings:
 
